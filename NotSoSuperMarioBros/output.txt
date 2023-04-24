@@ -1,0 +1,5143 @@
+Current level: 0
+Mario's position: (1, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 0
+Mario stays put
++ - - - - - - - +
+| B k g c c g s |
+| c x c x x H x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 0
+Mario's position: (1, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 0
+Mario moves left
++ - - - - - - - +
+| B k g c c g s |
+| c x c x x H x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 0
+Mario's position: (1, 4)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 0
+Mario stays put
++ - - - - - - - +
+| B k g c c g s |
+| c x c x H x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 0
+Mario's position: (1, 4)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 0
+Mario moves up
++ - - - - - - - +
+| B k g c c g s |
+| c x c x H x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 0
+Mario's position: (0, 4)
+Mario's current power level: 0
+Mario has added a coin to his wallet
+Lives: 3
+Coins: 1
+Mario moves right
++ - - - - - - - +
+| B k g c H g s |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 0
+Mario's position: (0, 5)
+Mario's current power level: 0
+Mario fought the goomba and won
+Lives: 3
+Coins: 1
+Mario stays put
++ - - - - - - - +
+| B k g c x H s |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 0
+Mario's position: (0, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 1
+Mario stays put
++ - - - - - - - +
+| B k g c x H s |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 0
+Mario's position: (0, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 1
+Mario stays put
++ - - - - - - - +
+| B k g c x H s |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 0
+Mario's position: (0, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 1
+Mario stays put
++ - - - - - - - +
+| B k g c x H s |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 0
+Mario's position: (0, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 1
+Mario moves right
++ - - - - - - - +
+| B k g c x H s |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 0
+Mario's position: (0, 6)
+Mario's current power level: 0
+Mario has consumed a mushroom
+Lives: 3
+Coins: 1
+Mario moves right
++ - - - - - - - +
+| B k g c x x H |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 0
+Mario's position: (0, 0)
+Mario's current power level: 1
+Mario fought the boss of the level and won!
+Lives: 3
+Coins: 1
++ - - - - - - - +
+| H k g c x x x |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Mario has completed the level
+Mario has advanced to the next level.
+
+Current level: 1
+Mario's position: (1, 5)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 1
+Mario moves up
++ - - - - - - - +
+| B k g c c g s |
+| c x c x x H x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 1
+Mario's position: (0, 5)
+Mario's current power level: 1
+Mario fought the goomba and won
+Lives: 3
+Coins: 1
+Mario moves left
++ - - - - - - - +
+| B k g c c H s |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 1
+Mario's position: (0, 4)
+Mario's current power level: 1
+Mario has added a coin to his wallet
+Lives: 3
+Coins: 2
+Mario moves up
++ - - - - - - - +
+| B k g c H x s |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 1
+Mario's position: (6, 4)
+Mario's current power level: 1
+Mario has added a coin to his wallet
+Lives: 3
+Coins: 3
+Mario stays put
++ - - - - - - - +
+| B k g c x x s |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c H c c |
++ - - - - - - - + 
+
+Current level: 1
+Mario's position: (6, 4)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 3
+Mario moves up
++ - - - - - - - +
+| B k g c x x s |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c H c c |
++ - - - - - - - + 
+
+Current level: 1
+Mario's position: (5, 4)
+Mario's current power level: 1
+Mario has added a coin to his wallet
+Lives: 3
+Coins: 4
+Mario moves down
++ - - - - - - - +
+| B k g c x x s |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s H x g |
+| c P c c x c c |
++ - - - - - - - + 
+
+Current level: 1
+Mario's position: (6, 4)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 4
+Mario moves up
++ - - - - - - - +
+| B k g c x x s |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s x x g |
+| c P c c H c c |
++ - - - - - - - + 
+
+Current level: 1
+Mario's position: (5, 4)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 4
+Mario stays put
++ - - - - - - - +
+| B k g c x x s |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s H x g |
+| c P c c x c c |
++ - - - - - - - + 
+
+Current level: 1
+Mario's position: (5, 4)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 4
+Mario stays put
++ - - - - - - - +
+| B k g c x x s |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s H x g |
+| c P c c x c c |
++ - - - - - - - + 
+
+Current level: 1
+Mario's position: (5, 4)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 4
+Mario moves up
++ - - - - - - - +
+| B k g c x x s |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s H x g |
+| c P c c x c c |
++ - - - - - - - + 
+
+Current level: 1
+Mario's position: (4, 4)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 4
+Mario stays put
++ - - - - - - - +
+| B k g c x x s |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g H x c |
+| x k k s x x g |
+| c P c c x c c |
++ - - - - - - - + 
+
+Current level: 1
+Mario's position: (4, 4)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 4
+Mario moves left
++ - - - - - - - +
+| B k g c x x s |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g H x c |
+| x k k s x x g |
+| c P c c x c c |
++ - - - - - - - + 
+
+Current level: 1
+Mario's position: (4, 3)
+Mario's current power level: 1
+Mario fought the goomba and won
+Lives: 3
+Coins: 4
+Mario moves down
++ - - - - - - - +
+| B k g c x x s |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x H x x c |
+| x k k s x x g |
+| c P c c x c c |
++ - - - - - - - + 
+
+Current level: 1
+Mario's position: (5, 3)
+Mario's current power level: 1
+Mario has consumed a mushroom
+Lives: 3
+Coins: 4
+Mario moves left
++ - - - - - - - +
+| B k g c x x s |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x x x x c |
+| x k k H x x g |
+| c P c c x c c |
++ - - - - - - - + 
+
+Current level: 1
+Mario's position: (5, 2)
+Mario's current power level: 2
+Mario fought the koopa and won
+Lives: 3
+Coins: 4
+Mario moves left
++ - - - - - - - +
+| B k g c x x s |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x x x x c |
+| x k H x x x g |
+| c P c c x c c |
++ - - - - - - - + 
+
+Current level: 1
+Mario's position: (5, 1)
+Mario's current power level: 2
+Mario fought the koopa and lost
+Lives: 3
+Coins: 4
+Mario moves down
++ - - - - - - - +
+| B k g c x x s |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x x x x c |
+| x H x x x x g |
+| c P c c x c c |
++ - - - - - - - + 
+
+Current level: 1
+Mario's position: (6, 1)
+Mario's current power level: 1
+Mario has entered the ward pipe
+Lives: 3
+Coins: 4
++ - - - - - - - +
+| B k g c x x s |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x x x x c |
+| x k x x x x g |
+| c H c c x c c |
++ - - - - - - - + 
+
+Mario has completed the level
+Mario has advanced to the next level.
+
+Current level: 2
+Mario's position: (1, 5)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 4
+Mario stays put
++ - - - - - - - +
+| B k g c c g s |
+| c x c x x H x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 5)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 4
+Mario stays put
++ - - - - - - - +
+| B k g c c g s |
+| c x c x x H x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 5)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 4
+Mario moves down
++ - - - - - - - +
+| B k g c c g s |
+| c x c x x H x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 5)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 4
+Mario moves right
++ - - - - - - - +
+| B k g c c g s |
+| c x c x x x x |
+| x x x c k H s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 6)
+Mario's current power level: 1
+Mario has consumed a mushroom
+Lives: 3
+Coins: 4
+Mario stays put
++ - - - - - - - +
+| B k g c c g s |
+| c x c x x x x |
+| x x x c k x H |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 6)
+Mario's current power level: 2
+The position is empty and Mario continues
+Lives: 3
+Coins: 4
+Mario moves left
++ - - - - - - - +
+| B k g c c g s |
+| c x c x x x x |
+| x x x c k x H |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 5)
+Mario's current power level: 2
+The position is empty and Mario continues
+Lives: 3
+Coins: 4
+Mario moves left
++ - - - - - - - +
+| B k g c c g s |
+| c x c x x x x |
+| x x x c k H x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 4)
+Mario's current power level: 2
+Mario fought the koopa and won
+Lives: 3
+Coins: 4
+Mario moves up
++ - - - - - - - +
+| B k g c c g s |
+| c x c x x x x |
+| x x x c H x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 4)
+Mario's current power level: 2
+The position is empty and Mario continues
+Lives: 3
+Coins: 4
+Mario stays put
++ - - - - - - - +
+| B k g c c g s |
+| c x c x H x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 4)
+Mario's current power level: 2
+The position is empty and Mario continues
+Lives: 3
+Coins: 4
+Mario stays put
++ - - - - - - - +
+| B k g c c g s |
+| c x c x H x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 4)
+Mario's current power level: 2
+The position is empty and Mario continues
+Lives: 3
+Coins: 4
+Mario moves up
++ - - - - - - - +
+| B k g c c g s |
+| c x c x H x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 4)
+Mario's current power level: 2
+Mario has added a coin to his wallet
+Lives: 3
+Coins: 5
+Mario moves up
++ - - - - - - - +
+| B k g c H g s |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 4)
+Mario's current power level: 2
+Mario has added a coin to his wallet
+Lives: 3
+Coins: 6
+Mario moves right
++ - - - - - - - +
+| B k g c x g s |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c H c c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 5)
+Mario's current power level: 2
+Mario has added a coin to his wallet
+Lives: 3
+Coins: 7
+Mario stays put
++ - - - - - - - +
+| B k g c x g s |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c x H c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 5)
+Mario's current power level: 2
+The position is empty and Mario continues
+Lives: 3
+Coins: 7
+Mario stays put
++ - - - - - - - +
+| B k g c x g s |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c x H c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 5)
+Mario's current power level: 2
+The position is empty and Mario continues
+Lives: 3
+Coins: 7
+Mario moves left
++ - - - - - - - +
+| B k g c x g s |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c x H c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 4)
+Mario's current power level: 2
+The position is empty and Mario continues
+Lives: 3
+Coins: 7
+Mario moves left
++ - - - - - - - +
+| B k g c x g s |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c H x c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 3)
+Mario's current power level: 2
+Mario has added a coin to his wallet
+Lives: 3
+Coins: 8
+Mario moves up
++ - - - - - - - +
+| B k g c x g s |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c H x x c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 3)
+Mario's current power level: 2
+Mario has consumed a mushroom
+Lives: 3
+Coins: 8
+Mario moves left
++ - - - - - - - +
+| B k g c x g s |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k H c x g |
+| c P c x x x c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 2)
+Mario's current power level: 2
+Mario fought the koopa and lost
+Lives: 3
+Coins: 8
+Mario moves right
++ - - - - - - - +
+| B k g c x g s |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k H x c x g |
+| c P c x x x c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 3)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 8
+Mario moves left
++ - - - - - - - +
+| B k g c x g s |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k H c x g |
+| c P c x x x c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 2)
+Mario's current power level: 1
+Mario fought the koopa and lost
+Lives: 3
+Coins: 8
+Mario moves right
++ - - - - - - - +
+| B k g c x g s |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k H x c x g |
+| c P c x x x c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 3)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 8
+Mario moves right
++ - - - - - - - +
+| B k g c x g s |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k H c x g |
+| c P c x x x c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 4)
+Mario's current power level: 0
+Mario has added a coin to his wallet
+Lives: 3
+Coins: 9
+Mario moves right
++ - - - - - - - +
+| B k g c x g s |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x H x g |
+| c P c x x x c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 9
+Mario stays put
++ - - - - - - - +
+| B k g c x g s |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x H g |
+| c P c x x x c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 9
+Mario moves right
++ - - - - - - - +
+| B k g c x g s |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x H g |
+| c P c x x x c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 6)
+Mario's current power level: 0
+Mario fought the goomba and won
+Lives: 3
+Coins: 9
+Mario moves down
++ - - - - - - - +
+| B k g c x g s |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x H |
+| c P c x x x c |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 6)
+Mario's current power level: 0
+Mario has added a coin to his wallet
+Lives: 3
+Coins: 10
+Mario stays put
++ - - - - - - - +
+| B k g c x g s |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x H |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario stays put
++ - - - - - - - +
+| B k g c x g s |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x H |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario moves down
++ - - - - - - - +
+| B k g c x g s |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x H |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 6)
+Mario's current power level: 0
+Mario has consumed a mushroom
+Lives: 3
+Coins: 10
+Mario moves up
++ - - - - - - - +
+| B k g c x g H |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario moves left
++ - - - - - - - +
+| B k g c x g x |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x H |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 5)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario stays put
++ - - - - - - - +
+| B k g c x g x |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x H x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 5)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario moves up
++ - - - - - - - +
+| B k g c x g x |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x H x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 5)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario moves left
++ - - - - - - - +
+| B k g c x g x |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x H x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 4)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario moves down
++ - - - - - - - +
+| B k g c x g x |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x H x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 4)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario moves right
++ - - - - - - - +
+| B k g c x g x |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x H x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 5)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario stays put
++ - - - - - - - +
+| B k g c x g x |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x H x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 5)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario moves down
++ - - - - - - - +
+| B k g c x g x |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x H x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 5)
+Mario's current power level: 1
+Mario fought the goomba and lost
+Lives: 3
+Coins: 10
+Mario moves right
++ - - - - - - - +
+| B k g c x H x |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario stays put
++ - - - - - - - +
+| B k g c x g H |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario moves left
++ - - - - - - - +
+| B k g c x g H |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 5)
+Mario's current power level: 0
+Mario fought the goomba and won
+Lives: 3
+Coins: 10
+Mario stays put
++ - - - - - - - +
+| B k g c x H x |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario moves down
++ - - - - - - - +
+| B k g c x H x |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario stays put
++ - - - - - - - +
+| B k g c x x x |
+| c x c x x H x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario moves down
++ - - - - - - - +
+| B k g c x x x |
+| c x c x x H x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario stays put
++ - - - - - - - +
+| B k g c x x x |
+| c x c x x x x |
+| x x x c x H x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario stays put
++ - - - - - - - +
+| B k g c x x x |
+| c x c x x x x |
+| x x x c x H x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario moves up
++ - - - - - - - +
+| B k g c x x x |
+| c x c x x x x |
+| x x x c x H x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario moves down
++ - - - - - - - +
+| B k g c x x x |
+| c x c x x H x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario stays put
++ - - - - - - - +
+| B k g c x x x |
+| c x c x x x x |
+| x x x c x H x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario stays put
++ - - - - - - - +
+| B k g c x x x |
+| c x c x x x x |
+| x x x c x H x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario stays put
++ - - - - - - - +
+| B k g c x x x |
+| c x c x x x x |
+| x x x c x H x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario stays put
++ - - - - - - - +
+| B k g c x x x |
+| c x c x x x x |
+| x x x c x H x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario stays put
++ - - - - - - - +
+| B k g c x x x |
+| c x c x x x x |
+| x x x c x H x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario moves up
++ - - - - - - - +
+| B k g c x x x |
+| c x c x x x x |
+| x x x c x H x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario moves up
++ - - - - - - - +
+| B k g c x x x |
+| c x c x x H x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario stays put
++ - - - - - - - +
+| B k g c x H x |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario moves right
++ - - - - - - - +
+| B k g c x H x |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario moves down
++ - - - - - - - +
+| B k g c x x H |
+| c x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 10
+Mario moves right
++ - - - - - - - +
+| B k g c x x x |
+| c x c x x x H |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 0)
+Mario's current power level: 0
+Mario has added a coin to his wallet
+Lives: 3
+Coins: 11
+Mario moves down
++ - - - - - - - +
+| B k g c x x x |
+| H x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 0)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 11
+Mario moves right
++ - - - - - - - +
+| B k g c x x x |
+| x x c x x x x |
+| H x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 11
+Mario moves up
++ - - - - - - - +
+| B k g c x x x |
+| x x c x x x x |
+| x H x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 11
+Mario stays put
++ - - - - - - - +
+| B k g c x x x |
+| x H c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 11
+Mario stays put
++ - - - - - - - +
+| B k g c x x x |
+| x H c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 11
+Mario moves up
++ - - - - - - - +
+| B k g c x x x |
+| x H c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 1)
+Mario's current power level: 0
+Mario fought the koopa and won
+Lives: 3
+Coins: 11
+Mario moves down
++ - - - - - - - +
+| B H g c x x x |
+| x x c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 11
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x H c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 11
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x H c x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 2)
+Mario's current power level: 0
+Mario has added a coin to his wallet
+Lives: 3
+Coins: 12
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x H x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 2)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x H x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 3)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x x H x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 4)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x H x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 4)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x H x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 4)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x x x H x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves down
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x H x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves up
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x H x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves left
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x H x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 4)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves up
++ - - - - - - - +
+| B x g c x x x |
+| x x x x H x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 4)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves right
++ - - - - - - - +
+| B x g c H x x |
+| x x x x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves down
++ - - - - - - - +
+| B x g c x H x |
+| x x x x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves up
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x H x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves up
++ - - - - - - - +
+| B x g c x H x |
+| x x x x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x H x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves left
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x H |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x H x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves up
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x H x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x H x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x H |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x H |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x H |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x H |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| x k k x x x H |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 0)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves up
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| x x x g x x c |
+| H k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 0)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| H x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 0)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves up
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x s x x x x c |
+| H x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 0)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| H s x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 1)
+Mario's current power level: 0
+Mario has consumed a mushroom
+Lives: 3
+Coins: 12
+Mario moves up
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x H x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 1)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves left
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x H x c x x x |
+| x x x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 0)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| H x x c x x x |
+| x x x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 0)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| H x x c x x x |
+| x x x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 0)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves left
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| H x x c x x x |
+| x x x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x H |
+| x x x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 0)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves left
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| H x x c x x x |
+| x x x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x H |
+| x x x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 12
+Mario moves down
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x H |
+| x x x x x x c |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 6)
+Mario's current power level: 1
+Mario has added a coin to his wallet
+Lives: 3
+Coins: 13
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x H |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 13
+Mario moves down
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x H |
+| x x x g x x c |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 6)
+Mario's current power level: 1
+Mario has added a coin to his wallet
+Lives: 3
+Coins: 14
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x H |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves left
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x H |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 5)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x H x |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 5)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves down
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x H x |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 5)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves left
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x H x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 4)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x H x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 5)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x H x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 5)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x H x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 5)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x H x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x x H |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves up
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x x H |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves up
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x H |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves down
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x H |
+| x x x g x x x |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves down
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x H |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x x H |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x x H |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves left
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x x H |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 5)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x H x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 5)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x H x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 5)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves left
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x H x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 4)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x H x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 4)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves up
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x H x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 4)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves down
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g H x x |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 4)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x H x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 5)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x H x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x x H |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves left
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x x H |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 5)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x H x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x x H |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves up
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x x H |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x H |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 0)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| H x x g x x x |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 0)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| H x x g x x x |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 0)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| H x x g x x x |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 1)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x H x g x x x |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 1)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x H x g x x x |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 1)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves left
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x H x g x x x |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 0)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves down
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| H x x g x x x |
+| x k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 0)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves left
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| H k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x x H |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 0)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 14
+Mario moves down
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| H k k x x x x |
+| c P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 0)
+Mario's current power level: 1
+Mario has added a coin to his wallet
+Lives: 3
+Coins: 15
+Mario moves up
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x x x |
+| H P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 0)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 15
+Mario moves down
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| H k k x x x x |
+| x P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 0)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 15
+Mario moves left
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x x x |
+| H P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 15
+Mario moves down
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x x x |
+| x P c x x x H |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 15
+Mario moves up
++ - - - - - - - +
+| B x g c x x H |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x x x |
+| x P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 15
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x x x |
+| x P c x x x H |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 15
+Mario moves up
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x x x |
+| x P c x x x H |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 15
+Mario moves down
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x x H |
+| x P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 6)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 15
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x x x |
+| x P c x x x H |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 0)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 15
+Mario moves up
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x k k x x x x |
+| H P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 0)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 15
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| H k k x x x x |
+| x P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 1)
+Mario's current power level: 1
+Mario fought the koopa and won
+Lives: 3
+Coins: 15
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x H k x x x x |
+| x P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 2)
+Mario's current power level: 1
+Mario fought the koopa and won
+Lives: 3
+Coins: 15
+Mario moves down
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x H x x x x |
+| x P c x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 2)
+Mario's current power level: 1
+Mario has added a coin to his wallet
+Lives: 3
+Coins: 16
+Mario moves up
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P H x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 2)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 16
+Mario moves up
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x H x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 2)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 16
+Mario moves up
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x x x x |
+| x x H g x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 2)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 16
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x H x x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 3)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 16
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x H x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 4)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 16
+Mario moves left
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x x H x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 3)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 16
+Mario moves left
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x x H x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 2)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 16
+Mario moves up
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x c x x x |
+| x x H x x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 2)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 16
+Mario moves left
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x H c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 1)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 16
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x H x c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 2)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 16
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x H c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 2)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 16
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x H c x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 3)
+Mario's current power level: 1
+Mario has added a coin to his wallet
+Lives: 3
+Coins: 17
+Mario stays put
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x H x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 3)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 17
+Mario moves left
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x H x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 2)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 17
+Mario moves right
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x H x x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 3)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 17
+Mario moves up
++ - - - - - - - +
+| B x g c x x x |
+| x x x x x x x |
+| x x x H x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 3)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 17
+Mario moves left
++ - - - - - - - +
+| B x g c x x x |
+| x x x H x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 2)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 17
+Mario moves up
++ - - - - - - - +
+| B x g c x x x |
+| x x H x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 2)
+Mario's current power level: 1
+Mario fought the goomba and won
+Lives: 3
+Coins: 17
+Mario moves down
++ - - - - - - - +
+| B x H c x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 2)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 17
+Mario stays put
++ - - - - - - - +
+| B x x c x x x |
+| x x H x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 2)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 17
+Mario moves right
++ - - - - - - - +
+| B x x c x x x |
+| x x H x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 3)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 17
+Mario moves up
++ - - - - - - - +
+| B x x c x x x |
+| x x x H x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 3)
+Mario's current power level: 1
+Mario has added a coin to his wallet
+Lives: 3
+Coins: 18
+Mario moves left
++ - - - - - - - +
+| B x x H x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 2)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves up
++ - - - - - - - +
+| B x H x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 2)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P H x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 2)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves right
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P H x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 3)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves up
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x x x x x |
+| x P x H x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 3)
+Mario's current power level: 1
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves up
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x H x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 3)
+Mario's current power level: 1
+Mario fought the goomba and lost
+Lives: 3
+Coins: 18
+Mario moves down
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x H x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 3)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves right
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x H x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 4)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves left
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x x H x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 3)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves up
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x g x x x |
+| x x x H x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 3)
+Mario's current power level: 0
+Mario fought the goomba and won
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x H x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 3)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves up
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x H x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 3)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x H x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 3)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves right
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x H x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 4)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves up
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x H x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 4)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves left
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x H x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 3)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves left
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x H x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 2)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x H x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 2)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves up
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x H x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 2)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x H x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 2)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves right
++ - - - - - - - +
+| B x x x x x x |
+| x x H x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 3)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves left
++ - - - - - - - +
+| B x x x x x x |
+| x x x H x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 2)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves up
++ - - - - - - - +
+| B x x x x x x |
+| x x H x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 2)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves left
++ - - - - - - - +
+| B x H x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves down
++ - - - - - - - +
+| B H x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x H x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves down
++ - - - - - - - +
+| B x x x x x x |
+| x H x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves right
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x H x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 2)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves left
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x H x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves down
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x H x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves up
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x H x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x H x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves down
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x H x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x H x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves right
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x H x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 2)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves left
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x H x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves left
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x H x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 0)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| H x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 0)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves up
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| H x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 0)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| H x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 0)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| H x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 0)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves up
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| H x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 0)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves down
++ - - - - - - - +
+| B x x x x x x |
+| H x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 0)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves right
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| H x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves down
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x H x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x H x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves left
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x H x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 0)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves left
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| H x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves up
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x H |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves right
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x H |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 0)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves down
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| H x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 0)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| H x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 0)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves right
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| H x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves down
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x H x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x H x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves down
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x H x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (5, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves up
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x H x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x H x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 1)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves left
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x H x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 0)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| H x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 0)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| H x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (4, 0)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves up
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| H x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 0)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves left
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| H x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x H |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (3, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves up
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x H |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x H |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves left
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x H |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (2, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves up
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x H x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves right
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x H x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x H |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves left
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x H |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves right
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x H x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x H |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves up
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x H |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves up
++ - - - - - - - +
+| B x x x x x H |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves left
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x H |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x H x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x H x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x H x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (6, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves down
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x H x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves down
++ - - - - - - - +
+| B x x x x H x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves right
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x H x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario stays put
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x H |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (1, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves up
++ - - - - - - - +
+| B x x x x x x |
+| x x x x x x H |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 6)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 3
+Coins: 18
+Mario moves right
++ - - - - - - - +
+| B x x x x x H |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Current level: 2
+Mario's position: (0, 0)
+Mario's current power level: 0
+Mario fought the boss of the level and lost :(
+Mario fought the boss again and won!
+Lives: 1
+Coins: 18
++ - - - - - - - +
+| H x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x x x x x x x |
+| x P x x x x x |
++ - - - - - - - + 
+
+Mario has completed the level
+Mario has advanced to the next level.
+
+Current level: 3
+Mario's position: (1, 5)
+Mario's current power level: 0
+The position is empty and Mario continues
+Lives: 1
+Coins: 18
+Mario moves up
++ - - - - - - - +
+| B k g c c g s |
+| c x c x x H x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Current level: 3
+Mario's position: (0, 5)
+Mario's current power level: 0
+Mario fought the goomba and lost
+Lives: 0
+Coins: 18
+Mario moves down
++ - - - - - - - +
+| B k g c c H s |
+| c x c x x x x |
+| x x x c k x s |
+| x s x x x x c |
+| x x x g x x c |
+| x k k s c x g |
+| c P c c c c c |
++ - - - - - - - + 
+
+Mario has run out of lives :(
+Mario took a fat L and lost the game. What a loser It took 302 moves

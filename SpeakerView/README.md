@@ -17,6 +17,7 @@ Code Limitations: no known limitations
 
 References: 
 Rene German
+Neil Azimi
 
 string methods for finding elements: https://cplusplus.com/reference/string/
 returning to beginning of file: https://stackoverflow.com/questions/5343173/returning-to-beginning-of-file-after-getline
